@@ -1,0 +1,7 @@
+D:\Visual проекты\Практика лабы\Laba18\Laba18\bin\Debug\Laba18.exe.config
+D:\Visual проекты\Практика лабы\Laba18\Laba18\bin\Debug\Laba18.exe
+D:\Visual проекты\Практика лабы\Laba18\Laba18\bin\Debug\Laba18.pdb
+D:\Visual проекты\Практика лабы\Laba18\Laba18\obj\Debug\Laba18.csprojAssemblyReference.cache
+D:\Visual проекты\Практика лабы\Laba18\Laba18\obj\Debug\Laba18.csproj.CoreCompileInputs.cache
+D:\Visual проекты\Практика лабы\Laba18\Laba18\obj\Debug\Laba18.exe
+D:\Visual проекты\Практика лабы\Laba18\Laba18\obj\Debug\Laba18.pdb
